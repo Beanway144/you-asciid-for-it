@@ -3,8 +3,8 @@ The goal of this program is to turn an input jpg or png into ascii art.
 
 ## Current Outlook (updated 3/13/2022:
 1. Load and resize image
- - [ [  Load image with Pillow
- - [ ]  Resize image to ensure text file isn't too large
+ - [ ] Load image with Pillow
+ - [ ] Resize image to ensure text file isn't too large
 
 2. Convert image to grayscale
  - [ ] Define ascii conversion list
