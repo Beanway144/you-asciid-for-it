@@ -1,6 +1,24 @@
 # Image to Ascii Converter
 The goal of this program is to turn an input jpg or png into ascii art.
 
+## Current Outlook (updated 3/13/2022:
+1. Load and resize image
+ -[ ] Load image with Pillow
+ -[ ] Resize image to ensure text file isn't too large
+
+2. Convert image to grayscale
+ -[ ] Define ascii conversion list
+ -[ ] Convert existing image to grayscale by pixel
+
+3. Convert each grayscale pixel to corresponding ascii character
+ -[ ] Convert individual grayscale images to ascii characters
+
+4. Output image
+ -[ ] Print output image to screen
+ -[ ] Set default csv file output repository
+
+________________________________________________________________________
+
 ## Current Outlook:
 1. Take an input image (sehardwick)
 - [x] Ask the user for a path to file
