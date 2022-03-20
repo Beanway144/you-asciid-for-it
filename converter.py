@@ -1,7 +1,4 @@
-import cv2
-import numpy as np
-
-
+from PIL import Image
 # gets the image from the input path, or throws errors if
 # path does not exist or is not appropriate file type;
 # dumps image data into approprate data structure
