@@ -71,7 +71,7 @@ def printMatrix(x, y, mat):
 
 def main():
     #previous getFile() function -SH    
-    path = input("Enter the path to the image : \n")
+    path = input("Enter the path to the image: ")
     image = 0
     try:
         image = Image.open(path)
